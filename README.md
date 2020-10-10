@@ -1,5 +1,5 @@
 # Budget Tracker Starter Code
-[![ReadMe Image](https://github.com/osbornroxas02/budget-tracker-pwa/blob/main/budget-main.png)
+![ReadMe Image](https://github.com/osbornroxas02/budget-tracker-pwa/blob/main/budget-main.png)
  
 ---
 
@@ -21,7 +21,7 @@ This Budget App Tracker app gives the users a fast and easy way to track their m
 
 ## How To Use
 
-[![ReadMe Image](https://github.com/osbornroxas02/budget-tracker-pwa/blob/main/budget.example.png)
+![ReadMe Image](https://github.com/osbornroxas02/budget-tracker-pwa/blob/main/budget.example.png)
 
 Name the account, enter the amount and choose to either "Add Funds" or "Subtract Funds". The app will then create a graph of your expenses.
 
