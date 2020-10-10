@@ -35,7 +35,7 @@ Osborn Roxas
 
 - [Github:](https://github.com/osbornroxas02)
 - [Email:](https://OSBORNROXAS02@GMAIL.COM)
-
+[![ReadMe Image](https://github.com/osbornroxas02/budget-tracker-pwa/blob/main/seated%20%202.JPG)
 
 [Back to the top](#table-of-contents)
 
